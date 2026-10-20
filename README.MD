@@ -1,1 +1,2 @@
 git gyakorlas
+readme kiegesziese
